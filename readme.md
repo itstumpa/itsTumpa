@@ -6,8 +6,6 @@
 - 💬 Ask me about -- Web Design & Development
 - 📫 How to reach me:  mail: tumpa1634@gmail.com
 - 😄 Pronouns:  Tum pa
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat foods & spend time with my family.
 <br/>
 
 # Programming Knowledge
