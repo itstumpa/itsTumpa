@@ -1,4 +1,4 @@
-## <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi & Thanks for stopping by! I'm Tumpa!!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi & Thanks for stopping by! I'm Tumpa!!</h1>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -19,6 +19,5 @@
 - 📫 How to reach me:  mail: tumpadas3494@gmail.com
 - 😄 Pronouns:  Tum pa
 <br/>
-
-# Tools:
+#Tools:
 - 👯 <strong> Git, VS Code, Chrome Dev tool, Canva, Premiere Pro, Photoshop </strong>
