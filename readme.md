@@ -9,5 +9,5 @@
 <br/>
 
 # Programming Knowledge
-- 👯 <strong>Comfortable:</strong> HTML5, CSS3, Bootstrap5, JavaScript, ES6, Node.js, React.js, REST API, React Bootstrap, Express.js, MongoDB, WordPress, Tailwind, Git, VS Code, Chrome Dev tool
+- 👯 <strong>Comfortable:</strong> HTML5, CSS3, Bootstrap5, JavaScript, ES6, WordPress, Tailwind, Git, VS Code, Chrome Dev tool
 
