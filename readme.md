@@ -19,5 +19,6 @@
 - 📫 How to reach me:  mail: tumpadas3494@gmail.com
 - 😄 Pronouns:  Tum pa
 <br/>
+
 # Tools:
 - 👯 <strong> Git, VS Code, Chrome Dev tool, Canva, Premiere Pro, Photoshop </strong>
