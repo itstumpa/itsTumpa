@@ -21,4 +21,4 @@
 <br/>
 
 # Tools:
-- 👯 <strong> Git, VS Code, Chrome Dev tool, Canva, Premiere Pro, Photoshop </strong>
+- 👯 <strong> Git, VS Code, Chrome Dev tool</strong>
