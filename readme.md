@@ -11,13 +11,28 @@
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-- 🔭 I am currently working on --Web Development
-- 🌱 I’m currently learning --React.js 🤣
+- 🔭 I am currently working on --MERN Stack
+- 🌱 I’m currently learning --Node.js 🤣
+- 🎯 Real-world portfolio projects & freelancing skills
 - 👯 I’m looking to collaborate with other Developers
+- 🔥 Making **deploy-ready projects with clean UI**
+- 📌Sharing my **developer journey consistently**
+- ⭐ Preparing for **remote work & freelance opportunities**
 - 💬 Ask me about -- Web Design & Development
 - 📫 How to reach me:  mail: tumpadas3494@gmail.com
 - 😄 Pronouns:  Tum pa
+- 🚀 Goal: Become a skilled MERN + Freelance Developer and build impactful web apps
+- 👉 GitHub: **@itstumpa**  
 <br/>
+
+---
+
+### 💼 My Developer Values:
+> Consistency over perfection.  
+> Real projects over tutorial watching.  
+> Progress is better than waiting to be "fully ready".
+
+---
 
 # Tools:
 - 👯 <strong> Git, VS Code, Chrome Dev tool</strong>
