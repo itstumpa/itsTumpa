@@ -25,6 +25,7 @@
 - 👉 GitHub: **@itstumpa**  
 <br/>
 ---
+
 ### 💼 My Developer Values:
 > Consistency over perfection.  
 > Real projects over tutorial watching.  
