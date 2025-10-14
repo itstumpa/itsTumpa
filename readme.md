@@ -24,9 +24,7 @@
 - 🚀 Goal: Become a skilled MERN + Freelance Developer and build impactful web apps
 - 👉 GitHub: **@itstumpa**  
 <br/>
-
 ---
-
 ### 💼 My Developer Values:
 > Consistency over perfection.  
 > Real projects over tutorial watching.  
