@@ -32,8 +32,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstumpa&show_icons=true&locale=en&layout=compact" alt="itstumpa" /></p>
-
 ### 💼 My Developer Values:
 > Consistency over perfection.  
 > Real projects over tutorial watching.  
@@ -43,3 +41,5 @@
 
 # Tools:
 - 👯 <strong> Git, VS Code, Chrome Dev tool</strong>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstumpa&show_icons=true&locale=en&layout=compact" alt="itstumpa" /></p>
