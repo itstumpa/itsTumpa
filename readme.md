@@ -82,4 +82,5 @@ Responsive design, Component-based architecture, UI/UX design principles, API in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itstumpa/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Tumpaa94)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tumpa.das.951692/)
-[![Email](https://img.shields.io/badge/Email-tumpadas3494@gmail.com?style=flat-square&logo=gmail&logoColor=white)](mailto:tumpadas3494@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tumpadas3494%20%5Bdot%5D%20com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tumpadas3494@gmail.com)
+
