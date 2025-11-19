@@ -21,7 +21,7 @@ Version Control & Deployment:
 Git, GitHub, Netlify, Vercel, Firebase
 
 Other Tools:
-Chrome DevTools, Postman, VS Code, npm/yarn, Figma, Thunder Client, axios
+Chrome DevTools, git, GitHub, Postman, VS Code, npm/yarn, Figma, Thunder Client, axios
 
 Additional Skills:
 Responsive design, Component-based architecture, UI/UX design principles, API integration, Authentication workflows
@@ -36,7 +36,21 @@ Responsive design, Component-based architecture, UI/UX design principles, API in
 - Ownership, discipline, and patience in my coding journey
 
 ---
-Secondary_Mail: itstumpaa@gmail.com
+
+- 🔭 I am currently working on -- MERN Stack
+- 🌱 I’m currently learning -- Next.js
+- 🎯 Real-world portfolio projects & freelancing skills
+- 👯 I’m looking to collaborate with other Developers
+- 🔥 Making **deploy-ready projects with clean UI**
+- 📌Sharing my **developer journey consistently**
+- ⭐ Preparing for **remote work & freelance opportunities**
+- 💬 Ask me about -- Web Design & Development
+- 📫 How to reach me: **mail: tumpadas3494@gmail.com**
+- 🔥 Secondary_Mail: **itstumpaa@gmail.com**
+- 😄 Pronouns:  Tum pa
+- 🧰 Fun fact: I love **cooking** and **traveling**
+- 🚀 Goal: Become a skilled Full stack + Freelance Developer and build impactful web apps
+- 👉 GitHub: **@itstumpa**  
 
 ---
 
@@ -55,32 +69,11 @@ Secondary_Mail: itstumpaa@gmail.com
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-- 🔭 I am currently working on -- MERN Stack
-- 🌱 I’m currently learning -- Next.js
-- 🎯 Real-world portfolio projects & freelancing skills
-- 👯 I’m looking to collaborate with other Developers
-- 🔥 Making **deploy-ready projects with clean UI**
-- 📌Sharing my **developer journey consistently**
-- ⭐ Preparing for **remote work & freelance opportunities**
-- 💬 Ask me about -- Web Design & Development
-- 📫 How to reach me:  mail: tumpadas3494@gmail.com
-- 😄 Pronouns:  Tum pa
-- 🧰 Fun fact: I love **cooking** and **traveling**
-- 🚀 Goal: Become a skilled Full stack + Freelance Developer and build impactful web apps
-- 👉 GitHub: **@itstumpa**  
-<br/>
-
 ---
 
+![Tumpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstumpa&show_icons=true&theme=merko)
 
-
-# Tools:
-- 👯 <strong> Git, VS Code, Chrome Dev tool</strong>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstumpa&show_icons=true&locale=en&layout=compact" alt="itstumpa" /></p>
-![Tumpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstumpa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&size_weight=0.5&count_weight=0.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko)
 
 ---
 
@@ -90,4 +83,3 @@ Secondary_Mail: itstumpaa@gmail.com
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Tumpaa94)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tumpa.das.951692/)
 [![Email](https://img.shields.io/badge/Email-tumpadas3494@gmail.com?style=flat-square&logo=gmail&logoColor=white)](mailto:tumpadas3494@gmail.com)
-
