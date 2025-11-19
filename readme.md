@@ -9,7 +9,7 @@ Currently, **I'm open to work, freelance, and new opportunities**.
 ### 💻⚡ Technical Skills & Tools
 
 Front-End:
-HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, and UI Library.
+HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript (ES6+), React.js, and UI Library.
 
 Back-End:
 Node.js, Express.js, REST APIs, JWT Authentication
