@@ -94,6 +94,10 @@ I'm always excited to connect with fellow developers, potential clients, and col
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itstumpa&color=brightgreen&style=flat-square)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=itstumpa&repo=SearchSkill_ass_9&show_owner=true)](https://github.com/itstumpa/SearchSkill_ass_9)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=itstumpa&repo=SkillBay-Client&show_owner=true)](https://github.com/itstumpa/SkillBay-Client)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=itstumpa&repo=hero_apps_104&show_owner=true)](https://github.com/itstumpa/hero_apps_104)
+
 </div>
 
 ---
