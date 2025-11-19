@@ -28,15 +28,6 @@ Responsive design, Component-based architecture, UI/UX design principles, API in
 
 ---
 
-### 💼 My Developer Values:
-- Consistency over perfection — I build and iterate daily
-- Quick learner through practical projects
-- Turning challenges into growth opportunities
-- Progress is better than waiting to be "fully ready".
-- Ownership, discipline, and patience in my coding journey
-
----
-
 - 🔭 I am currently working on -- MERN Stack
 - 🌱 I’m currently learning -- Next.js
 - 🎯 Real-world portfolio projects & freelancing skills
@@ -51,6 +42,15 @@ Responsive design, Component-based architecture, UI/UX design principles, API in
 - 🧰 Fun fact: I love **cooking** and **traveling**
 - 🚀 Goal: Become a skilled Full stack + Freelance Developer and build impactful web apps
 - 👉 GitHub: **@itstumpa**  
+
+---
+
+### 💼 My Developer Values:
+- Consistency over perfection — I build and iterate daily
+- Quick learner through practical projects
+- Turning challenges into growth opportunities
+- Progress is better than waiting to be "fully ready".
+- Ownership, discipline, and patience in my coding journey
 
 ---
 
