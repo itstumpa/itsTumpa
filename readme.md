@@ -78,8 +78,6 @@ I'm a passionate **MERN Stack Developer** who transforms ideas into real, intera
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=itstumpa&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itstumpa&theme=merko&hide_border=true&background=0D1117" width="48%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" width="48%" />
 
 </div>
