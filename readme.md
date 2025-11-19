@@ -1,5 +1,42 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi & Thanks for stopping by! I'm Tumpa!!</h1>
-<h3>A MERN Stack Developer passionate about turning ideas into real, interactive, and responsive web applications.</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi & Thanks for stopping by! A MERN Developer</h1>
+
+## 👨‍💻 About Me
+
+Hi, I’m **Tumpa Das** — a MERN Stack Developer passionate about turning ideas into real, interactive, and responsive web applications. I love JavaScript — it’s the language that powers everything I build, from dynamic user interfaces with React.js to server-side logic with Node.js and database operations with MongoDB. Every project I work on is an opportunity to learn, experiment, and grow.
+
+Currently, **I'm open to work, freelance, and new opportunities**.  
+
+### 💻⚡ Technical Skills & Tools
+
+Front-End:
+HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, and UI Library.
+
+Back-End:
+Node.js, Express.js, REST APIs, JWT Authentication
+
+Database:
+MongoDB, Firebase (Auth, Firestore)
+
+Version Control & Deployment:
+Git, GitHub, Netlify, Vercel, Firebase
+
+Other Tools:
+Chrome DevTools, Postman, VS Code, npm/yarn, Figma, Thunder Client, axios
+
+Additional Skills:
+Responsive design, Component-based architecture, UI/UX design principles, API integration, Authentication workflows
+
+### 💼 My Developer Values:
+- Consistency over perfection — I build and iterate daily
+- Quick learner through practical projects
+- Turning challenges into growth opportunities
+- Progress is better than waiting to be "fully ready".
+- Ownership, discipline, and patience in my coding journey
+
+---
+Secondary_Mail: itstumpaa@gmail.com
+
+#MERNStackDeveloper #FrontEndDeveloper #ReactJS #NodeJS #MongoDB #WebDevelopment #FullStackDeveloper #WomenInTech #Firebase #PortfolioProjects #FreelanceWebDeveloper #UIUX
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -16,8 +53,8 @@
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-- 🔭 I am currently working on --MERN Stack
-- 🌱 I’m currently learning --Python
+- 🔭 I am currently working on -- MERN Stack
+- 🌱 I’m currently learning -- Next.js
 - 🎯 Real-world portfolio projects & freelancing skills
 - 👯 I’m looking to collaborate with other Developers
 - 🔥 Making **deploy-ready projects with clean UI**
@@ -26,20 +63,31 @@
 - 💬 Ask me about -- Web Design & Development
 - 📫 How to reach me:  mail: tumpadas3494@gmail.com
 - 😄 Pronouns:  Tum pa
+- 🧰 Fun fact: I love **cooking** and **traveling**
 - 🚀 Goal: Become a skilled Full stack + Freelance Developer and build impactful web apps
 - 👉 GitHub: **@itstumpa**  
 <br/>
 
 ---
 
-### 💼 My Developer Values:
-> Consistency over perfection.  
-> Real projects over tutorial watching.  
-> Progress is better than waiting to be "fully ready".
 
----
 
 # Tools:
 - 👯 <strong> Git, VS Code, Chrome Dev tool</strong>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstumpa&show_icons=true&locale=en&layout=compact" alt="itstumpa" /></p>
+![Tumpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=itstumpa&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&hide_progress=true)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itstumpa/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Tumpaa94)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/tumpa.das.951692/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@hasinhayder)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://hasinhayder.com)
+[![Email](https://img.shields.io/badge/Email-hasin%20%5Bat%5D%20hasinhayder%20%5Bdot%5D%20com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tumpadas3494@gmail.com)
+
