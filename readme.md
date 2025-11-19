@@ -26,6 +26,8 @@ Chrome DevTools, Postman, VS Code, npm/yarn, Figma, Thunder Client, axios
 Additional Skills:
 Responsive design, Component-based architecture, UI/UX design principles, API integration, Authentication workflows
 
+---
+
 ### 💼 My Developer Values:
 - Consistency over perfection — I build and iterate daily
 - Quick learner through practical projects
@@ -36,7 +38,7 @@ Responsive design, Component-based architecture, UI/UX design principles, API in
 ---
 Secondary_Mail: itstumpaa@gmail.com
 
-#MERNStackDeveloper #FrontEndDeveloper #ReactJS #NodeJS #MongoDB #WebDevelopment #FullStackDeveloper #WomenInTech #Firebase #PortfolioProjects #FreelanceWebDeveloper #UIUX
+---
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
