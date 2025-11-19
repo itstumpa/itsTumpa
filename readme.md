@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Tumpa Das** — a MERN Stack Developer passionate about turning ideas into real, interactive, and responsive web applications. I love JavaScript — it’s the language that powers everything I build, from dynamic user interfaces with React.js to server-side logic with Node.js and database operations with MongoDB. Every project I work on is an opportunity to learn, experiment, and grow.
+I’m **Tumpa Das** — a MERN Stack Developer passionate about turning ideas into real, interactive, and responsive web applications. I love JavaScript — it’s the language that powers everything I build, from dynamic user interfaces with React.js to server-side logic with Node.js and database operations with MongoDB. Every project I work on is an opportunity to learn, experiment, and grow.
 
 Currently, **I'm open to work, freelance, and new opportunities**.  
 
