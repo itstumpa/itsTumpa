@@ -40,7 +40,7 @@ I'm a passionate **MERN Stack Developer** who transforms ideas into real, intera
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,vite" />
 </p>
 
 **Skills:** Responsive Design, Component-based Architecture, UI/UX Principles, Figma to Code
@@ -58,11 +58,6 @@ I'm a passionate **MERN Stack Developer** who transforms ideas into real, intera
 </p>
 
 **Additional Tools:** Chrome DevTools, Thunder Client, Axios, Yarn
-
-### Design & Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</p>
 
 ---
 
