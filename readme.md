@@ -1,9 +1,11 @@
 <div align="center">
   
 # 👋 Hi, I'm Tumpa Das!
-<div align="center">
+### MERN Stack Developer | Full Stack Enthusiast | Open to Opportunities
+
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=100&color=61DAFB&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Fullstack+Enthusiast;Open+to+Opportunities;" alt="Typing SVG" />
-</div>
+</div> -->
 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
