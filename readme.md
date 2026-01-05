@@ -3,6 +3,11 @@
 # 👋 Hi, I'm Tumpa Das!
 ### MERN Stack Developer | Full Stack Enthusiast | Open to Opportunities
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines= MERN+Stack+Developer+%7C+Fullstack+Enthusiast;Open+to+Opportunities;" alt="Typing SVG" />
+</div>
+
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itstumpa/) 
