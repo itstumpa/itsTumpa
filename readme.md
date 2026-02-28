@@ -21,13 +21,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **MERN Stack Developer** who transforms ideas into real, interactive, and responsive web applications. JavaScript is my superpower — powering everything from dynamic React.js interfaces to robust Node.js backends and MongoDB databases.
+I'm a passionate **Backend Developer** who transforms ideas into real, interactive, and responsive web applications. JavaScript is my superpower — powering everything from dynamic React.js interfaces to robust Node.js backends and MongoDB/PostgreSQL databases.
 
 🚀 **Currently:** Open to work, freelance projects, and new opportunities  
-🌱 **Learning:** Next.js and advanced full-stack patterns  
+🌱 **Learning:** DevOps and advanced full-stack patterns  
 🔥 **Focus:** Building deploy-ready projects with clean, modern UI  
-📌 **Sharing:** My developer journey consistently on social media  
-🎯 **Goal:** Become a skilled Full Stack + Freelance Developer and build impactful web apps
+📌 **Sharing:** My developer journey is consistently on social media  
+🎯 **Goal:** Become a skilled Full Stack Developer and build impactful web apps
 
 ---
 
@@ -45,30 +45,30 @@ I'm a passionate **MERN Stack Developer** who transforms ideas into real, intera
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,redux,vite" />
 </p>
 
 **Skills:** Responsive Design, Component-based Architecture, UI/UX Principles, Figma to Code
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase,redis" />
 </p>
 
-**Skills:** REST APIs, JWT Authentication, Database Design, Server-side Logic
+**Skills:** REST APIs, JWT, passportjs Authentication, Zod, Database Design, Server-side Logic
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm,vercel,netlify,figma" />
 </p>
 
-**Additional Tools:** Chrome DevTools, Thunder Client, Axios, Yarn
+**Additional Tools:** Chrome DevTools, Axios, Nodemailer
 
 ---
 
 ## 💼 Current Status
 
-- 🔭 Working on advanced **MERN Stack** projects
+- 🔭 Working on advanced **Backend** projects
 - 👯 Looking to collaborate with other developers
 - 💬 Ask me about **Web Design & Development**
 - 📫 Reach me at: **tumpadas3494@gmail.com** or **itstumpaa@gmail.com**
