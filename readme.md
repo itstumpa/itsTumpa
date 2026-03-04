@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Tumpa Das!
+# 👋 Hi, I'm Tumpa
 ### Backend Developer | Full Stack Enthusiast | Open to Opportunities
 
 <!-- <div align="center">
