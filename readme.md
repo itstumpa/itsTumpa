@@ -78,17 +78,6 @@ I'm a passionate **Backend Developer** who transforms ideas into real, interacti
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=itstumpa&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstumpa&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" width="48%" />
-
-</div>
-
----
-
 ## 🌟 Let's Connect & Build Something Amazing!
 
 I'm always excited to connect with fellow developers, potential clients, and collaborators. Whether you have a project in mind, want to discuss tech, or just want to say hi — feel free to reach out!
